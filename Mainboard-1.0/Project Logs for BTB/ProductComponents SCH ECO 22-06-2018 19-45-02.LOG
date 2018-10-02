@@ -1,0 +1,3 @@
+Removed Parameter PartNumber:BTB-PCB-1.0 from Part M1
+Removed Parameter PartNumber:* from Part M2
+Added Parameter PartNumber=BTB-PCB-1.0 to Part M1

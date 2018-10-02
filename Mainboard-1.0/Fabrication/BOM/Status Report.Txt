@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 22:09:43 On 13/04/2018
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Stardard Assembly] of Project [BTB.PrjPcb]
+   Generated File[BTB-BoM.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 22:10:11 On 13/04/2018

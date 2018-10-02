@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=TZ19-1
+Removed Pin From Net: NetName=NetD14_2 Pin=TZ19-2
+Added Component: Designator=TZ19(DISC-SOD-323)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=TZ19-1
+Added Pin To Net: NetName=NetD14_2 Pin=TZ19-2

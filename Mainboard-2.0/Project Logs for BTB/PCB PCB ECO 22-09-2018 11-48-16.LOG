@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=NetQ6_2 Pin=Q8-2
+Removed Pin From Net: NetName=NetQ6_2 Pin=Q9-1
+Removed Pin From Net: NetName=NetQ6_2 Pin=R34-2
+Change Component Footprint: Designator=U9 Old Footprint=CI-SOIC-8 New Footprint=CI-SOIC-8
+Change Component Footprint: Designator=U3 Old Footprint=CI-SOIC-16 New Footprint=CI-SOIC-16
+Change Component Footprint: Designator=U5 Old Footprint=CI-SOIC-16 New Footprint=CI-SOIC-16
+Change Component Footprint: Designator=LED1 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED2 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED3 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED4 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED5 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED6 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED7 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED8 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED9 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED10 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED11 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED12 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED13 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED14 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED15 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED16 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=LED17 Old Footprint=DISC-LED-0.1-PTH New Footprint=DISC-LED-0.1-PTH
+Change Component Footprint: Designator=F1 Old Footprint=DISC-PTC-0.2X0.4 New Footprint=DISC-PTC-0.2X0.4
+Change Component Footprint: Designator=D1 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=D2 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=D3 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=D4 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=D5 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=D6 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=D11 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=D13 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=D14 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ1 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ2 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ3 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ4 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ5 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ6 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ7 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ8 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ9 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ12 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ13 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ14 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ15 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ16 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ17 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ18 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=TZ19 Old Footprint=DISC-SOD-323 New Footprint=DISC-SOD-323
+Change Component Footprint: Designator=D10 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=D12 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q1 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q2 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q3 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q4 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q5 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q6 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q7 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q8 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q9 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q10 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q11 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q12 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q13 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q14 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q15 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q16 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q17 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q18 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q19 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q20 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q21 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Change Component Footprint: Designator=Q22 Old Footprint=DISC-SOT-23 New Footprint=DISC-SOT-23
+Added Pin To Net: NetName=NetC2_1 Pin=C4-1
+Added Pin To Net: NetName=NetQ6_2 Pin=P13-1
+Added Pin To Net: NetName=MOSI Pin=Q8-2
+Added Pin To Net: NetName=MOSI Pin=Q9-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R5-2
+Added Pin To Net: NetName=MOSI Pin=R34-2
+Added Pin To Net: NetName=NetC2_1 Pin=TZ1-2
+Added Pin To Net: NetName=ANALOG_OUT_2 Pin=TZ2-2
+Added Pin To Net: NetName=NetQ6_2 Pin=U7-11
+Added Pin To Net: NetName=NetR17_2 Pin=U7-18
+Added Pin To Net: NetName=NetR18_2 Pin=U7-19
+Added Pin To Net: NetName=NetR19_2 Pin=U7-20
+Added Pin To Net: NetName=NetQ4_2 Pin=U7-21
+Added Pin To Net: NetName=NetC2_1 Pin=U7-27
+Added Pin To Net: NetName=ANALOG_OUT_2 Pin=U7-28
+Added Pin To Net: NetName=NetR2_2 Pin=U7-29
+Added Pin To Net: NetName=NetR8_2 Pin=U7-30
+Change Net Name : Old Net Name=NetC2_1 New Net Name=ANALOG_OUT_1
+Change Net Name : Old Net Name=NetQ6_2 New Net Name=MISO

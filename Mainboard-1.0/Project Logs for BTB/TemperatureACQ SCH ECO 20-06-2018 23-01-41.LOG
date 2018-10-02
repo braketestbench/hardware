@@ -1,0 +1,83 @@
+Removed Parameter Supplier 1:Mouser from Part C40
+Removed Parameter Supplier 1:Mouser from Part C45
+Removed Parameter Supplier1:Mouser from Part C46
+Removed Parameter Supplier 1:Mouser from Part C47
+Removed Parameter Supplier 1:Mouser from Part C48
+Removed Parameter Supplier 1:Mouser from Part C49
+Removed Parameter Supplier1:Mouser from Part C50
+Removed Parameter Supplier1:Mouser from Part C51
+Removed Parameter Supplier1:Mouser from Part C52
+Removed Parameter Supplier1:Mouser from Part C53
+Removed Parameter Supplier1:Mouser from Part C54
+Removed Parameter Supplier1:Mouser from Part C55
+Removed Parameter Supplier1:Mouser from Part R78
+Removed Parameter Supplier 1:Mouser from Part R79
+Removed Parameter Supplier1:Mouser from Part R80
+Removed Parameter Supplier 1:Mouser from Part R81
+Removed Parameter Supplier1:Mouser from Part R82
+Removed Parameter Supplier1:Mouser from Part R83
+Removed Parameter Supplier1:Mouser from Part R84
+Removed Parameter Supplier1:Mouser from Part R85
+Removed Parameter Supplier 1:Mouser from Part R86
+Removed Parameter Supplier1:Mouser from Part R87
+Removed Parameter Supplier1:Mouser from Part R88
+Removed Parameter Supplier1:Mouser from Part R89
+Removed Parameter Supplier1:Mouser from Part R90
+Removed Parameter Supplier1:Mouser from Part R91
+Removed Parameter Supplier1:Mouser from Part R92
+Removed Parameter Supplier1:Mouser from Part R93
+Removed Parameter Supplier1:Mouser from Part R94
+Removed Parameter Supplier1:Mouser from Part R95
+Removed Parameter Supplier 1:Mouser from Part TZ11
+Removed Parameter Supplier1:Mouser from Part TZ12
+Removed Parameter Supplier1:Mouser from Part TZ13
+Removed Parameter Supplier1:Mouser from Part TZ14
+Removed Parameter Supplier 1:Mouser from Part U11
+Removed Parameter Supplier 1:Mouser from Part U12
+Removed Parameter Supplier1:Mouser from Part U12
+Removed Parameter Supplier1:Mouser from Part U13
+Removed Parameter Supplier Part Number 1:77-VJ0805Y105KXQTBC from Part C49
+Removed Parameter Supplier Part Number 1:77-VJ0805Y105KXQTBC from Part C54
+Removed Parameter Supplier Part Number 1:81-GRM39X102K050 from Part C47
+Removed Parameter Supplier Part Number 1:81-GRM39X102K050 from Part C50
+Removed Parameter Supplier Part Number 1:81-GRM39X102K050 from Part C52
+Removed Parameter Supplier Part Number 1:81-GRM39X102K050 from Part C55
+Removed Parameter Supplier Part Number 1:81-GRM155R71E103JA1J from Part C48
+Removed Parameter Supplier Part Number 1:81-GRM155R71E103JA1J from Part C53
+Removed Parameter Supplier Part Number 1:511-LM358P from Part U12
+Removed Parameter Supplier Part Number 1:511-LM358P from Part U12
+Removed Parameter Supplier Part Number 1:584-AD8495ARMZ-R7 from Part U11
+Removed Parameter Supplier Part Number 1:584-AD8495ARMZ-R7 from Part U13
+Removed Parameter Supplier Part Number 1:652-CR0805-J/-000GLF from Part R79
+Removed Parameter Supplier Part Number 1:652-CR0805-J/-000GLF from Part R83
+Removed Parameter Supplier Part Number 1:652-CR0805-J/-000GLF from Part R88
+Removed Parameter Supplier Part Number 1:652-CR0805-J/-000GLF from Part R92
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R78
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R81
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R82
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R84
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R85
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R87
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R90
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R91
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R93
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R94
+Removed Parameter Supplier Part Number 1:652-CR0805JW-105ELF from Part R80
+Removed Parameter Supplier Part Number 1:652-CR0805JW-105ELF from Part R86
+Removed Parameter Supplier Part Number 1:652-CR0805JW-105ELF from Part R89
+Removed Parameter Supplier Part Number 1:652-CR0805JW-105ELF from Part R95
+Removed Parameter Supplier Part Number 1:652-SMBJ10CA from Part TZ11
+Removed Parameter Supplier Part Number 1:652-SMBJ10CA from Part TZ12
+Removed Parameter Supplier Part Number 1:652-SMBJ10CA from Part TZ13
+Removed Parameter Supplier Part Number 1:652-SMBJ10CA from Part TZ14
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C40
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C45
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C46
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C51
+Change Value of Parameter PartNumber1 in Part C40 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C40 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C45 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C45 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C46 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C46 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C51 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603

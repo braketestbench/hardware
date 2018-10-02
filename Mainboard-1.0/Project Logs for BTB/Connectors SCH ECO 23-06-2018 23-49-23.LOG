@@ -1,0 +1,8 @@
+Change Value of Parameter PartNumber in Part C1 Old=CAP.100n.25V.10%.SMD.0603 New=CAP.100n.10V.10%.SMD.0402
+Change Value of Parameter PartNumber in Part C3 Old=CAP.100n.25V.10%.SMD.0603 New=CAP.100n.10V.10%.SMD.0402
+Change Value of Parameter PartNumber in Part C4 Old=CAP.100n.25V.10%.SMD.0603 New=CAP.100n.10V.10%.SMD.0402
+Change Value of Parameter PartNumber in Part C5 Old=CAP.100n.25V.10%.SMD.0603 New=CAP.100n.10V.10%.SMD.0402
+Change Value of Parameter PartNumber in Part C6 Old=CAP.100n.25V.10%.SMD.0603 New=CAP.100n.10V.10%.SMD.0402
+Change Value of Parameter PartNumber in Part C7 Old=CAP.100n.10V.10%.SMD.0603 New=CAP.100n.10V.10%.SMD.0402
+Change Value of Parameter PartNumber in Part C8 Old=CAP.100n.16V.10%.SMD.0402 New=CAP.100n.10V.10%.SMD.0402
+Change Value of Parameter PartNumber in Part C9 Old=CAP.100n.16V.10%.SMD.0603 New=CAP.100n.10V.10%.SMD.0402

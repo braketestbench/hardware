@@ -1,0 +1,5 @@
+Removed Parameter Supplier 1:963-LBC2012T100M from Part L3
+Removed Parameter Supplier Part Number 1:963-LBC2012T100M from Part L3
+Change Value of Parameter PartNumber1 in Part L3 Old=IND.10u.200mA.20%.SMD.0805 New=LBC2012T100M
+Added Parameter ClassName=MCU to Part U5
+Added Parameter PartNumber1=ATMEGA328PB to Part U5

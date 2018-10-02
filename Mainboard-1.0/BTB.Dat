@@ -1,0 +1,55 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~608|Field=Quantity~Integer~Quantity~278|Field=Comment~String~Comment~215|Field=Manufacturer~String~Manufacturer~215|Field=PartNumber~String~PartNumber~388|Field=Price~String~Price~50|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~BTB.PrjPcb|ReportField=ProjectFullPath~C:\Users\joaog\Documents\braketestbench\hardware\BTB.PrjPcb|ReportField=Title~BoM-Basic-Functionality For Variant [BoM-Basic-Functionality] of Project [BTB.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~145|ReportField=ReportTime~23:28:13|ReportField=ReportDate~27/06/2018|ReportField=ReportDateTime~27/06/2018 23:28:13|ReportField=OutputName~BoM-Basic-Functionality|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~BoM-Basic-Functionality|ReportField=ProjectName~BTB|ReportField=ProjectVersion~1.0.0|ReportField=Address1~L3, 12a Rodborough Rd|ReportField=Address2~Frenchs Forest|ReportField=Address3~NSW|ReportField=Address4~Australia 2086|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Joao Guimaraes|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~27/06/2018|ReportField=CurrentTime~23:28:12|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\joaog\Documents\braketestbench\hardware\Source\SUMMARY.SchDoc|ReportField=DocumentName~SUMMARY.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~22/06/2018|ReportField=Organization~Altium Limited|ReportField=Revision~1.0.0|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~SUMMARY|ReportField=DataSourceFileName~BTB.PrjPcb|ReportField=DataSourceFullPath~C:\Users\joaog\Documents\braketestbench\hardware\BTB.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|C1, C2, C7, C8, C9, C12, C13, C17, C18, C21, C22, C25, C37, C40, C44, C45, C46, C56, C58, C61|20|100nF 10v, 100nF 10V, 100nF 10V, 100nF 16V, 100nF 16V, 100nF 10V, 100nF 10V, 100nF 10V, 100nF 10V, 100nF 10V, 100nF 10V, 100nF 10V, 100nF, 100nF 10V, 100nF 10V, 100nF 10V, 100nF 10V, 100nF 10V, 100nF 10V, 100nF 10V|Wurth|CAP.100n.10V.20%.SMD.0402|0.015
+2|C14, C30, C32, C43, C49, C59|6|1uF 10v, 1uF 10V, 100nF 10V, 1uF 10V, 1uF 10V, 1uF 10V|Vishay|CAP.1u.10V.10%.SMD.0805|0.17
+3|C19, C20|2|22pF 10V|Wurth|CAP.22p.10V.5%.SMD.0603|0.10
+4|C23|1|100uF 35V|Wurth|CAP.100u.35V.20%.SMD.6,3x7,7|0.36
+5|C24|1|330uF 16V|Wurth|CAP.330u.6V3.20%.SMD.6,3x5,4|0.24
+6|C26|1|0.33uF 25V|Vishay|CAP.0.33u.25V.10%.SMD.0805|0.11
+7|C27|1|100nF 16V|Wurth|CAP.100n.16V.10%.SMD.0402|0.015
+8|C38|1|1uF 10V|Vishay|CAP.1u.10V.5%.SMD.0805|0.17
+9|C41|1|220nF 16V|Wurth|CAP.0.22u.16V.5%.SMD.0805|.10
+10|C42|1|68uF 6V3|Vishay|CAP.68u.6V3.5%.SMD.0805|0.88
+11|C47, C50|2|1nF 25V|Wurth, Vishay|CAP.1n.25V.10%.SMD.0603|0.10
+12|C48, C60|2|10nF 25V|Wurth|CAP.10n.25V.10%.SMD.0603|0.10
+13|C57|1|470nF 10V|Vishay|CAP.470n.10V.20%.SMD.0603|0.15
+14|D2|1|1N5822|STMicroelectronics|1N5822|0.47
+15|D4|1|FM205-W|Rectron|FM205-W|0.15
+16|D5|1|MAX6107EUR+T|Maxim Integrated|MAX6107EUR|1.14
+17|D6|1|ADR510ARTZ|Analog Devices|ADR510ARTZ|1.48
+18|L1, L2, L5, L6, L7, L8, L9, L10|8|BLM21|Murata Electronics|BLM21|0.19
+19|L3|1|10uH|Taiyo Yuden|LBC2012T100M|0.20
+20|L4|1|330uH|Bourns|SDE0805A-331K|0.57
+21|M1|1|BTB-PCB-1.0|allpcb.com|BTB-PCB-1.0|34.37
+22|M2|1|Importation Taxes Discrete||Importation Taxes Discrete|40.67
+23|M3|1|Importation Taxes PCB||Importation Taxes PCB|44.10
+24|P5, P6|2|Header 3X2||Header 3X2|1.00
+25|Q2, Q4|2|NDS332P|NDS332P, ON Semiconductor|NDS332P|0.40
+26|Q6, Q7|2|NX7002AKVL|Nexperia|NX7002AKVL|0.16
+27|R2, R5, R19, R22, R27, R42, R44, R46, R47, R48, R57, R59, R68, R69, R74, R78, R81, R82, R85, R87, R89, R98, R100, R104, R105|25|10k|Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Yageo, Bourns, Yageo, Yageo, Yageo, Yageo|RES.10K.1/8W.5%.SMD.0805|0.012, 0.013, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.013, 0.013, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012
+28|R7, R13, R35, R36, R37, R39, R41, R53, R58, R96, R97|11|1k|Yageo|RES.1K.1/8W.5%.SMD.0805|0.012
+29|R8, R12, R14, R77, R101, R103, R106, R107|8|100k, 10k, 100k, 100k, 100k, 100k, 100k, 100k|Vishay, Vishay, Vishay, Yageo, Yageo, Bourns, Yageo, Bourns|RES.100K.1/8W.5%.SMD.0805|0.012
+30|R20, R23, R54, R79, R83, R99|6|0R|Vishay|RES.0R.1/8W.5%.SMD.0805|0.044
+31|R24|1|845R|Yageo|RES.845R.1/8W.1%.SMD.0402|0.10
+32|R26, R29, R55, R86|4|1M|Bourns|RES.1M.1/8W.5%.SMD.0805|0.10, 0.012, 0.012, 0.012
+33|R72|1|24k|Vishay|RES.24K.1/8W.5%.SMD.0805|0.10
+34|R73|1|200R|Vishay|RES.200R.1/8W.1%.SMD.0805|0.10
+35|R75|1|150k|Vishay|RES.150K.1/8W.5%.SMD.0805|0.10
+36|R102|1|20k|Vishay|RES.20K.1/8W.1%.SMD.0805|0.10
+37|TZ2, TZ4, TZ10|3|SMBJ12A|ON Semiconductor|SMBJ12A|0.37
+38|TZ5|1|SMBJ5.0CA|Bourns|SMBJ5.0CA|0.44
+39|TZ7|1|SLD24-018|Littelfuse|SLD24-018|3.17
+40|TZ9|1|SLD17-018|Littelfuse|SLD17-018|3.17
+41|TZ11, TZ12|2|SMBJ10CA|Diodes|SMBJ10CA-13-F|0.35
+42|TZ15, TZ16|2|MSP3V3-M3/89A|Vishay|MSP3V3-M3/89A|0.41
+43|U1|1|AD8223|Analog Devices|AD8223ARZ|2.89
+44|U2, U12|2|LM358PT|STMicroelectronics|LM358PT|0.40
+45|U4|1|TPL7407LAPWR|TL2575-05|TPL7407LAPWR|0.64
+46|U5|1|ATMEGA328PB|Microchip|ATMEGA328PB|1.65
+47|U6|1|TL2575-05|Texas Instruments|TL2575-05|2.28
+48|U7|1|LM78L10|ON Semiconductor|LM78L10|0.48
+49|U10|1|LM2907MX-8|Texas Instruments|LM2907MX-8|2.03
+50|U11|1|AD8495|Analog Devices|AD8495CRMZ-R7|10.84
+51|U14|1|MCP2221A-I/SL|Microchip|MCP2221A-I/SL|2.27
+52|U15|1|STF202-22T1G|ON Semiconductor|STF202-22T1G|0.54
+53|U16|1|MCP6001T-I/OT|Microchip|MCP6001T-I/OT|0.29
+54|Y1|1|LFXTAL003237|IQD|LFXTAL003237|0.54

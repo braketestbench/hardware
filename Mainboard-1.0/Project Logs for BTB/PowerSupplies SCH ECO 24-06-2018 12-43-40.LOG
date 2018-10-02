@@ -1,0 +1,20 @@
+Change Value of Parameter Manufacturer in Part C26 Old= New=Vishay
+Change Value of Parameter PartNumber in Part C26 Old=CAP.0.33u.16V.10%.SMD.0805 New=CAP.0.33u.25V.10%.SMD.0805
+Change Value of Parameter Manufacturer in Part C28 Old= New=Vishay
+Change Value of Parameter Manufacturer in Part D2 Old= New=STMicroelectronics
+Change Value of Parameter Price in Part D2 Old=0.43 New=0.47
+Change Value of Parameter Manufacturer in Part D4 Old= New=Rectron
+Change Value of Parameter Manufacturer in Part D5 Old= New=Maxim Integrated
+Change Value of Parameter Manufacturer in Part D6 Old= New=Analog Devices
+Change Value of Parameter Price in Part D6 Old=1.61 New=1.48
+Change Value of Parameter Manufacturer in Part L4 Old= New=Bourns
+Change Value of Parameter Price in Part L4 Old=0.66 New=0.57
+Change Value of Parameter Manufacturer in Part R56 Old= New=Vishay
+Change Value of Parameter Price in Part R56 Old=0.013 New=0.044
+Change Value of Parameter Manufacturer in Part R58 Old= New=Yageo
+Change Value of Parameter Manufacturer in Part TZ7 Old= New=Littelfuse
+Change Value of Parameter Price in Part TZ7 Old=3.37 New=3.17
+Change Value of Parameter Manufacturer in Part U6 Old= New=Texas Instruments
+Change Value of Parameter Price in Part U6 Old=2.35 New=2.28
+Change Value of Parameter Manufacturer in Part U7 Old= New=ON Semiconductor
+Change Value of Parameter Manufacturer in Part U8 Old= New=LM78L10

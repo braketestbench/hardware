@@ -1,0 +1,28 @@
+Removed Parameter Supplier1:Mouser from Part C33
+Removed Parameter Supplier1:Mouser from Part C34
+Removed Parameter Supplier1:Mouser from Part C35
+Removed Parameter Supplier1:Mouser from Part C36
+Removed Parameter Supplier1:Mouser from Part R61
+Removed Parameter Supplier1:Mouser from Part R62
+Removed Parameter Supplier1:Mouser from Part R63
+Removed Parameter Supplier1:Mouser from Part R64
+Removed Parameter Supplier1:Mouser from Part R65
+Removed Parameter Supplier1:Mouser from Part R66
+Removed Parameter Supplier1:Mouser from Part TZ8
+Removed Parameter Supplier1:Mouser from Part U9
+Removed Parameter Supplier1:Mouser from Part U9
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R66
+Removed Parameter Supplier Part Number 1:77-VJ0805A272KXATBC from Part C34
+Removed Parameter Supplier Part Number 1:77-VJ0805A392JXAAT from Part C35
+Removed Parameter Supplier Part Number 1:77-VJ0805Y105KXQTBC from Part C36
+Removed Parameter Supplier Part Number 1:511-LM358P from Part U9
+Removed Parameter Supplier Part Number 1:511-LM358P from Part U9
+Removed Parameter Supplier Part Number 1:621-SMBJ12A-13-F from Part TZ8
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R61
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R63
+Removed Parameter Supplier Part Number 1:652-CR0805FX-1001ELF from Part R64
+Removed Parameter Supplier Part Number 1:652-CR0805JW-105ELF from Part R65
+Removed Parameter Supplier Part Number 1:652-CR0805JW-223ELF from Part R62
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C33
+Change Value of Parameter PartNumber1 in Part C33 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C33 Old=0,00 New=0.064

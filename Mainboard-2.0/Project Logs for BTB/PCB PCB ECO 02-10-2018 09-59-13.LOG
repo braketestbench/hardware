@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C34-1
+Change Component Comment : Designator=R66 Old Comment=10k New Comment=1k
+Change Component Comment : Designator=R67 Old Comment=10k New Comment=1k
+Change Component Comment : Designator=R68 Old Comment=10k New Comment=1k
+Added Pin To Net: NetName=UGND Pin=C34-1
+Added Member To Class: ClassName=VIBRATION ACQ Member=Component TZ19 ESDA8V2-1J

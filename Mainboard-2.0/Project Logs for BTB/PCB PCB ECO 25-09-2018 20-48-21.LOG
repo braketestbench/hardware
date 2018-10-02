@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=5V Pin=LED11-1
+Removed Pin From Net: NetName=5V Pin=LED12-1
+Removed Pin From Net: NetName=5V Pin=LED13-1
+Removed Pin From Net: NetName=GND Pin=Q14-2
+Removed Pin From Net: NetName=GND Pin=Q15-2
+Removed Pin From Net: NetName=GND Pin=Q16-2
+Added Pin To Net: NetName=GND Pin=LED11-2
+Added Pin To Net: NetName=GND Pin=LED12-2
+Added Pin To Net: NetName=GND Pin=LED13-2
+Added Pin To Net: NetName=5V Pin=Q14-3
+Added Pin To Net: NetName=5V Pin=Q15-3
+Added Pin To Net: NetName=5V Pin=Q16-3
+Added Pin To Net: NetName=NetLED11_1 Pin=LED11-1
+Added Pin To Net: NetName=NetLED11_1 Pin=R66-2
+Added Net: Name=NetLED11_1
+Added Pin To Net: NetName=NetLED12_1 Pin=LED12-1
+Added Pin To Net: NetName=NetLED12_1 Pin=R67-2
+Added Net: Name=NetLED12_1
+Added Pin To Net: NetName=NetLED13_1 Pin=LED13-1
+Added Pin To Net: NetName=NetLED13_1 Pin=R68-2
+Added Net: Name=NetLED13_1
+Added Pin To Net: NetName=NetQ14_2 Pin=Q14-2
+Added Pin To Net: NetName=NetQ14_2 Pin=R66-1
+Added Net: Name=NetQ14_2
+Added Pin To Net: NetName=NetQ15_2 Pin=Q15-2
+Added Pin To Net: NetName=NetQ15_2 Pin=R67-1
+Added Net: Name=NetQ15_2
+Added Pin To Net: NetName=NetQ16_2 Pin=Q16-2
+Added Pin To Net: NetName=NetQ16_2 Pin=R68-1
+Added Net: Name=NetQ16_2

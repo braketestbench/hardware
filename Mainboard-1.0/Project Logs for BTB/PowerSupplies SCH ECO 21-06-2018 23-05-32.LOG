@@ -1,0 +1,5 @@
+Change Value of Parameter Price in Part D2 Old=0,00 New=0.43
+Added Parameter ClassName=PowerSupplies to Part U7
+Added Parameter ClassName=PowerSupplies to Part U8
+Added Parameter PartNumber1=LM78L10 to Part U7
+Added Parameter PartNumber1=LM78L10 to Part U8

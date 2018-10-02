@@ -1,0 +1,10 @@
+Added Component: Designator=R115(DISC-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceType"; Value = "FOB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R115-1
+Added Pin To Net: NetName=NetQ17_2 Pin=R115-2
+Added Member To Class: ClassName=SPEED ACQ Member=Component R115 10k

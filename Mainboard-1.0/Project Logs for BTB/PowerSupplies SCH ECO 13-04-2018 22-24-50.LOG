@@ -1,0 +1,15 @@
+Removed Parameter Supplier 1: from Part R52
+Change Value of Parameter PartNumber1 in Part F1 Old= New=FUSE 5A
+Change Value of Parameter PartNumber1 in Part R52 Old= New=RES.10K.1/8W.5%.SMD.0805
+Change Value of Parameter PartNumber1 in Part R53 Old= New=RES.10K.1/8W.5%.SMD.0805
+Change Value of Parameter PartNumber1 in Part R54 Old= New=RES.10K.1/8W.5%.SMD.0805
+Added Parameter ClassName=PowerSupplies to Part D5
+Added Parameter ClassName=PowerSupplies to Part D7
+Added Parameter ClassName=PowerSupplies to Part D9
+Added Parameter ClassName=PowerSupplies to Part TZ7
+Added Parameter ClassName=PowerSupplies to Part U7
+Added Parameter PartNumber1=LM2574MX-12 to Part U7
+Added Parameter PartNumber1=LM4040D101DBZR to Part D7
+Added Parameter PartNumber1=LM4040DYM3-5.0-TR to Part D9
+Added Parameter PartNumber1=NSR0530HT1G to Part D5
+Added Parameter PartNumber1=SLD30-018 to Part TZ7

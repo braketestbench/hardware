@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=P23-1
+Removed Pin From Net: NetName=NetF2_2 Pin=P23-2
+Added Pin To Net: NetName=NetF2_2 Pin=P23-1
+Added Pin To Net: NetName=GND Pin=P23-2
+Added Member To Class: ClassName=MCU Member=Component P13 Header 3X2

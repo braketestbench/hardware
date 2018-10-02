@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=S1-3
+Removed Pin From Net: NetName=5V Pin=S1-4
+Change Component Footprint: Designator=S1 Old Footprint=DISC-PUSHBUTTON-4P-SMD New Footprint=DISC-PUSHBUTTON-4P-SMD
+Added Pin To Net: NetName=RST Pin=S1-3
+Added Pin To Net: NetName=RST Pin=S1-4

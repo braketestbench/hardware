@@ -1,0 +1,57 @@
+Removed Parameter Supplier1:Digi-Key from Part L1
+Removed Parameter Supplier1:Digi-Key from Part L2
+Removed Parameter Supplier1:Digi-Key from Part L5
+Removed Parameter Supplier1:Digi-Key from Part L6
+Removed Parameter Supplier1:Digi-Key from Part L7
+Removed Parameter Supplier1:Digi-Key from Part L8
+Removed Parameter Supplier1:Digi-Key from Part L9
+Removed Parameter Supplier1:Digi-Key from Part L10
+Removed Parameter Supplier1:Digi-Key from Part P5
+Removed Parameter Supplier1:Digi-Key from Part P6
+Removed Parameter Supplier1:Mouser from Part C1
+Removed Parameter Supplier1:Mouser from Part C3
+Removed Parameter Supplier1:Mouser from Part C4
+Removed Parameter Supplier1:Mouser from Part C5
+Removed Parameter Supplier1:Mouser from Part C6
+Removed Parameter Supplier1:Mouser from Part C7
+Removed Parameter Supplier1:Mouser from Part C8
+Removed Parameter Supplier1:Mouser from Part C9
+Removed Parameter Supplier1:Mouser from Part D1
+Removed Parameter Supplier 1:Mouser from Part R1
+Removed Parameter Supplier1:Mouser from Part R2
+Removed Parameter Supplier Part Number 1:490-1041-1-ND from Part L1
+Removed Parameter Supplier Part Number 1:490-1041-1-ND from Part L2
+Removed Parameter Supplier Part Number 1:490-1041-1-ND from Part L5
+Removed Parameter Supplier Part Number 1:490-1041-1-ND from Part L6
+Removed Parameter Supplier Part Number 1:490-1041-1-ND from Part L7
+Removed Parameter Supplier Part Number 1:490-1041-1-ND from Part L8
+Removed Parameter Supplier Part Number 1:490-1041-1-ND from Part L9
+Removed Parameter Supplier Part Number 1:490-1041-1-ND from Part L10
+Removed Parameter Supplier Part Number 1:652-CR0805-J/-000GLF from Part R1
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R2
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C1
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C3
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C4
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C5
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C6
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C7
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C8
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C9
+Removed Parameter Supplier Part Number 1:863-RB521S30T1G from Part D1
+Removed Parameter Supplier Part Number 1:S6009-03-ND from Part P5
+Removed Parameter Supplier Part Number 1:S6009-03-ND from Part P6
+Change Value of Parameter PartNumber1 in Part C1 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter PartNumber1 in Part C3 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C3 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C4 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C4 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C5 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C5 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C6 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C6 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C7 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C7 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C8 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C8 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C9 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C9 Old=0,00 New=0.064

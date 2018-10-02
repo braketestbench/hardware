@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=F2 Old Footprint=DISC-PTC-0.2X0.4 New Footprint=DISC-PTC-0.2X0.4
+Added Component: Designator=TZ21(DISC-SOD-323)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TZ22(DISC-SOD-323)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=TZ21-1
+Added Pin To Net: NetName=LC1_PWR Pin=TZ21-2
+Added Pin To Net: NetName=GND Pin=TZ22-1
+Added Pin To Net: NetName=LC2_PWR Pin=TZ22-2
+Added Member To Class: ClassName=FORCE ACQ Member=Component TZ21 ESDA8V2-1J
+Added Member To Class: ClassName=FORCE ACQ Member=Component TZ22 ESDA8V2-1J

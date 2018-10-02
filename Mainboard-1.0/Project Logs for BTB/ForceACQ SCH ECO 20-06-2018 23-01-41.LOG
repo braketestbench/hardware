@@ -1,0 +1,64 @@
+Removed Parameter Supplier 1:Mouser from Part C2
+Removed Parameter Supplier1:Mouser from Part C12
+Removed Parameter Supplier1:Mouser from Part C13
+Removed Parameter Supplier1:Mouser from Part C14
+Removed Parameter Supplier1:Mouser from Part C15
+Removed Parameter Supplier1:Mouser from Part C16
+Removed Parameter Supplier1:Mouser from Part R19
+Removed Parameter Supplier1:Mouser from Part R20
+Removed Parameter Supplier1:Mouser from Part R21
+Removed Parameter Supplier1:Mouser from Part R22
+Removed Parameter Supplier1:Mouser from Part R23
+Removed Parameter Supplier 1:Mouser from Part R24
+Removed Parameter Supplier1:Mouser from Part R25
+Removed Parameter Supplier1:Mouser from Part R26
+Removed Parameter Supplier1:Mouser from Part R27
+Removed Parameter Supplier1:Mouser from Part R28
+Removed Parameter Supplier1:Mouser from Part R29
+Removed Parameter Supplier1:Mouser from Part R30
+Removed Parameter Supplier1:Mouser from Part R31
+Removed Parameter Supplier1:Mouser from Part R32
+Removed Parameter Supplier1:Mouser from Part R33
+Removed Parameter Supplier1:Mouser from Part R34
+Removed Parameter Supplier 1:Mouser from Part TZ5
+Removed Parameter Supplier1:Mouser from Part TZ6
+Removed Parameter Supplier 1:Mouser from Part U1
+Removed Parameter Supplier1:Mouser from Part U2
+Removed Parameter Supplier1:Mouser from Part U2
+Removed Parameter Supplier1:Mouser from Part U3
+Removed Parameter Supplier Part Number 1:71-CRCW1206-845-E3 from Part R24
+Removed Parameter Supplier Part Number 1:71-CRCW1206-845-E3 from Part R32
+Removed Parameter Supplier Part Number 1:77-VJ0805Y105KXQTBC from Part C14
+Removed Parameter Supplier Part Number 1:77-VJ0805Y105KXQTBC from Part C16
+Removed Parameter Supplier Part Number 1:511-LM358P from Part U2
+Removed Parameter Supplier Part Number 1:511-LM358P from Part U2
+Removed Parameter Supplier Part Number 1:584-AD8223ARZ from Part U1
+Removed Parameter Supplier Part Number 1:584-AD8223ARZ from Part U3
+Removed Parameter Supplier Part Number 1:652-CR0805-J/-000GLF from Part R20
+Removed Parameter Supplier Part Number 1:652-CR0805-J/-000GLF from Part R23
+Removed Parameter Supplier Part Number 1:652-CR0805-J/-000GLF from Part R28
+Removed Parameter Supplier Part Number 1:652-CR0805-J/-000GLF from Part R31
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R19
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R22
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R25
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R27
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R30
+Removed Parameter Supplier Part Number 1:652-CR0805-JW-103ELF from Part R33
+Removed Parameter Supplier Part Number 1:652-CR0805JW-105ELF from Part R21
+Removed Parameter Supplier Part Number 1:652-CR0805JW-105ELF from Part R26
+Removed Parameter Supplier Part Number 1:652-CR0805JW-105ELF from Part R29
+Removed Parameter Supplier Part Number 1:652-CR0805JW-105ELF from Part R34
+Removed Parameter Supplier Part Number 1:652-SMBJ5.0CA from Part TZ5
+Removed Parameter Supplier Part Number 1:652-SMBJ5.0CA from Part TZ6
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C2
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C12
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C13
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C15
+Change Value of Parameter PartNumber1 in Part C2 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C2 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C12 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C12 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C13 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C13 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C15 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C15 Old=0,00 New=0.064

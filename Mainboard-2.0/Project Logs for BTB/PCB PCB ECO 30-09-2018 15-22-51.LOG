@@ -1,0 +1,7 @@
+Added Component: Designator=S1(DISC-PUSHBUTTON-4P-SMD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=5V Pin=S1-3
+Added Pin To Net: NetName=5V Pin=S1-4
+Added Member To Class: ClassName=MCU Member=Component S1 SPST-NO

@@ -1,0 +1,44 @@
+Removed Parameter Supplier1:Mouser from Part C10
+Removed Parameter Supplier1:Mouser from Part C11
+Removed Parameter Supplier1:Mouser from Part Q1
+Removed Parameter Supplier1:Mouser from Part Q3
+Removed Parameter Supplier1:Mouser from Part R3
+Removed Parameter Supplier1:Mouser from Part R4
+Removed Parameter Supplier1:Mouser from Part R5
+Removed Parameter Supplier1:Mouser from Part R6
+Removed Parameter Supplier1:Mouser from Part R7
+Removed Parameter Supplier1:Mouser from Part R8
+Removed Parameter Supplier1:Mouser from Part R9
+Removed Parameter Supplier1:Mouser from Part R10
+Removed Parameter Supplier1:Mouser from Part R11
+Removed Parameter Supplier1:Mouser from Part R12
+Removed Parameter Supplier1:Mouser from Part R13
+Removed Parameter Supplier1:Mouser from Part R14
+Removed Parameter Supplier1:Mouser from Part TZ1
+Removed Parameter Supplier1:Mouser from Part TZ2
+Removed Parameter Supplier1:Mouser from Part TZ3
+Removed Parameter Supplier1:Mouser from Part TZ4
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R3
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R4
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R5
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R6
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R7
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R8
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R9
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R10
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R11
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R12
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R13
+Removed Parameter Supplier Part Number 1:71-CRCW0805J-100K-E3 from Part R14
+Removed Parameter Supplier Part Number 1:621-SMBJ12A-13-F from Part TZ1
+Removed Parameter Supplier Part Number 1:621-SMBJ12A-13-F from Part TZ2
+Removed Parameter Supplier Part Number 1:621-SMBJ12A-13-F from Part TZ3
+Removed Parameter Supplier Part Number 1:621-SMBJ12A-13-F from Part TZ4
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C10
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C11
+Removed Parameter Supplier Part Number 1:771-NX7002AKVL from Part Q1
+Removed Parameter Supplier Part Number 1:771-NX7002AKVL from Part Q3
+Change Value of Parameter PartNumber1 in Part C10 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C10 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C11 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C11 Old=0,00 New=0.064

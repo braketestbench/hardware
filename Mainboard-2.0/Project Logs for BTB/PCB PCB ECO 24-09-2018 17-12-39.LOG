@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetP16_1 Pin=P16-1
+Removed Pin From Net: NetName=GND Pin=P16-2
+Removed Pin From Net: NetName=NetD11_2 Pin=P17-1
+Removed Pin From Net: NetName=GND Pin=P17-2
+Added Pin To Net: NetName=GND Pin=P16-1
+Added Pin To Net: NetName=NetP16_1 Pin=P16-2
+Added Pin To Net: NetName=GND Pin=P17-1
+Added Pin To Net: NetName=NetD11_2 Pin=P17-2
+Change Net Name : Old Net Name=NetP16_1 New Net Name=NetP16_2
+Added Room: Name=ANALOG
+Added Room: Name=DIGITAL
+Added Room: Name=FORCE ACQ
+Added Room: Name=MCU
+Added Room: Name=POWER SUPPLIES
+Added Room: Name=SPEED ACQ
+Added Room: Name=Summary
+Added Room: Name=TEMP ACQ
+Added Room: Name=VIBRATION ACQ

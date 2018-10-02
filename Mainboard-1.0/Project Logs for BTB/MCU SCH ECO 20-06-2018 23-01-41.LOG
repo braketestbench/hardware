@@ -1,0 +1,22 @@
+Removed Parameter Supplier1:Mouser from Part C18
+Removed Parameter Supplier1:Mouser from Part C19
+Removed Parameter Supplier1:Mouser from Part C20
+Removed Parameter Supplier1:Mouser from Part C21
+Removed Parameter Supplier1:Mouser from Part C22
+Removed Parameter Supplier1:Mouser from Part R54
+Removed Parameter Supplier1:Mouser from Part R55
+Removed Parameter Supplier1:Mouser from Part Y1
+Removed Parameter Supplier Part Number 1:77-VJ0603A220JXQCBC from Part C19
+Removed Parameter Supplier Part Number 1:77-VJ0603A220JXQCBC from Part C20
+Removed Parameter Supplier Part Number 1:449-LFXTAL003237REEL from Part Y1
+Removed Parameter Supplier Part Number 1:652-CR0805JW-105ELF from Part R54
+Removed Parameter Supplier Part Number 1:652-CR0805JW-105ELF from Part R55
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C18
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C21
+Removed Parameter Supplier Part Number 1:710-885012105010 from Part C22
+Change Value of Parameter PartNumber1 in Part C18 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C18 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C21 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C21 Old=0,00 New=0.064
+Change Value of Parameter PartNumber1 in Part C22 Old=CAP.100n.25V.10%.SMD.0402 New=CAP.100n.25V.10%.SMD.0603
+Change Value of Parameter Price in Part C22 Old=0,00 New=0.064
