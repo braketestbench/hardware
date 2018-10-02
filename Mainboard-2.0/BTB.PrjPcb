@@ -285,94 +285,98 @@ DocumentPath=Project Outputs for BTB\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Fabrication\NC Drill\PCB.DRL
+DocumentPath=Fabrication\ExportSTEP\PCB(BoM).step
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Fabrication\NC Drill\PCB.DRR
+DocumentPath=Fabrication\NC Drill\PCB.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Fabrication\Gerber\PCB.EXTREP
+DocumentPath=Fabrication\NC Drill\PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Fabrication\Gerber\PCB.GBL
+DocumentPath=Fabrication\Gerber\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Fabrication\Gerber\PCB.GBO
+DocumentPath=Fabrication\Gerber\PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Fabrication\Gerber\PCB.GBP
+DocumentPath=Fabrication\Gerber\PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Fabrication\Gerber\PCB.GBS
+DocumentPath=Fabrication\Gerber\PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Fabrication\Gerber\PCB.GD1
+DocumentPath=Fabrication\Gerber\PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Fabrication\Gerber\PCB.GG1
+DocumentPath=Fabrication\Gerber\PCB.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Fabrication\Gerber\PCB.GKO
+DocumentPath=Fabrication\Gerber\PCB.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Fabrication\Gerber\PCB.GM1
+DocumentPath=Fabrication\Gerber\PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Fabrication\Gerber\PCB.GM2
+DocumentPath=Fabrication\Gerber\PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Fabrication\Gerber\PCB.GM4
+DocumentPath=Fabrication\Gerber\PCB.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Fabrication\Gerber\PCB.GPB
+DocumentPath=Fabrication\Gerber\PCB.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Fabrication\Gerber\PCB.GPT
+DocumentPath=Fabrication\Gerber\PCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Fabrication\Gerber\PCB.GTL
+DocumentPath=Fabrication\Gerber\PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Fabrication\Gerber\PCB.GTO
+DocumentPath=Fabrication\Gerber\PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Fabrication\Gerber\PCB.GTP
+DocumentPath=Fabrication\Gerber\PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Fabrication\Gerber\PCB.GTS
+DocumentPath=Fabrication\Gerber\PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Fabrication\NC Drill\PCB.LDP
+DocumentPath=Fabrication\Gerber\PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Fabrication\Gerber\PCB.REP
+DocumentPath=Fabrication\NC Drill\PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Fabrication\Gerber\PCB.RUL
+DocumentPath=Fabrication\Gerber\PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=Fabrication\Gerber\PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
 DocumentPath=Fabrication\NC Drill\PCB.TXT
 DItemRevisionGUID=
 
@@ -995,6 +999,36 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad v7 Capture Design
+OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD ASCII
+OutputName13=P-CAD ASCII (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD V16 Schematic Design
+OutputName14=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=SiSoft
+OutputName15=SiSoft (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
