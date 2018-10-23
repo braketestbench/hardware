@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\joao.guimaraes\Downloads\hardware-master\Mainboard-2.0\PCB\PCB.PcbDoc
+DRC Rules Export File for PCB: C:\Users\joaog\Documents\braketestbench\hardware\Mainboard-2.0\PCB\PCB.PcbDoc
 RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=20.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.00
