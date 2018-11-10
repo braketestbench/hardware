@@ -542,3 +542,4 @@
 [1003/083019:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [1003/083024:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [1003/083029:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1110/112739:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
